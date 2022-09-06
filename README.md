@@ -3,7 +3,7 @@
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm Mateusz, Junior Frontend Developer :computer:<br>
   <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+    <img align="right" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif" alt="Coder GIF" width="50%">
  </abc>
 </h2> 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
@@ -32,3 +32,4 @@
 [![Linkedin Badge](https://img.shields.io/badge/-burnagiel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/burnagiel/)](https://www.linkedin.com/in/burnagiel/)
 [![Facebook Badge](https://img.shields.io/badge/-@burnagiel-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/burnagiel)](https://www.facebook.com/burnagiel)
 [![Instagram Badge](https://img.shields.io/badge/-@xmateuszeek-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/xmateuszeek/)](https://www.instagram.com/xmateuszeek/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mateuszburnagiel@gmail.com)](mailto:mateuszburnagiel@gmail.com)
