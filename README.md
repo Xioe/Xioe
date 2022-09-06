@@ -19,8 +19,9 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm currently working on MERN Stack
-- :hourglass_flowing_sand: each day I spend 3-4 hours to improvemy skills)
+- :computer: I'm solution oriented by using documentation, StackOverflow, support of many developers' groups
+- :hourglass_flowing_sand: Each day I spend 3-4 hours to improvemy skills)
+- 🗣 👥 Communicative (I belive that proper communication is the core for the productivity of our efforts)
 - :rocket: Always ready to work
 - Hobbies:  <br>
 ⚽️ I love to play football <br>
