@@ -3,9 +3,10 @@
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm Mateusz, Junior Frontend Developer :computer:<br>
   <br>
-    <img align="right" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif" alt="Coder GIF" width="10%; display:block;">
+   
  </abc>
 </h2> 
+ <img align="right" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif" alt="Coder GIF" style="width: 400px; display:block;">
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -25,7 +26,7 @@
 - :rocket: Always ready to work
 - Hobbies:  <br>
 ⚽️ I love to play football <br>
-💻 Also play in games 🤫
+💻 Also play in video games 🤫
 <br>
 
 <h2 align="left">:heart: Let's get connected:</h2>
