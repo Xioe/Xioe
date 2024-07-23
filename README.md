@@ -33,5 +33,5 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-burnagiel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/burnagiel/)](https://www.linkedin.com/in/burnagiel/)
 [![Facebook Badge](https://img.shields.io/badge/-@burnagiel-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/burnagiel)](https://www.facebook.com/burnagiel)
-[![Instagram Badge](https://img.shields.io/badge/-@xmateuszeek-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/xmateuszeek/)](https://www.instagram.com/hellomati.dev/)
+[![Instagram Badge](https://img.shields.io/badge/-@xmateuszeek-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/hellomati.dev/)](https://www.instagram.com/hellomati.dev/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mateuszburnagiel@gmail.com)](mailto:mateuszburnagiel@gmail.com)
